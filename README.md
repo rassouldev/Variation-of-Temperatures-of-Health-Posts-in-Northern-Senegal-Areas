@@ -5,6 +5,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/rassouldev/Variation-of-Temperatures-of-Health-Posts-in-Northern-Senegal-Areas)
 ![GitHub](https://img.shields.io/github/license/rassouldev/Variation-of-Temperatures-of-Health-Posts-in-Northern-Senegal-Areas)
 
-Les données présenstés ici sont l'objet de plusieyrs mission de collecte dans les districts de Dagana et de kanel.
+Les données présenstés ici sont l'objet de plusieurs missions de collectes dans les districts de Dagana et de kanel.
 
 # Auteur : Meissa rassoul seck
